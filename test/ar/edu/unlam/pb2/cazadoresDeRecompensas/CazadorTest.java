@@ -1,4 +1,4 @@
-package ar.edu.unlam.pb2.cazadoresTest;
+package ar.edu.unlam.pb2.cazadoresDeRecompensas;
 
 import static org.junit.Assert.*;
 
